@@ -129,7 +129,6 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_beadis_title').innerHTML = arr[lang_index].lang_beadis_title;
   document.getElementById('lang_beadis_cont').innerHTML = arr[lang_index].lang_beadis_cont;
 
-  document.getElementById('lang_send').innerHTML = arr[lang_index].lang_send;
 
   return;
 }
