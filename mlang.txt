@@ -49,6 +49,6 @@
       "lang_navch": "TW - Traditional Chinese ",
       "lang_naven": "EN - English",
       "lang_beadis_title": "About EQL Technology",
-      "lang_beadis_cont": "eng"
+      "lang_beadis_cont": "Founded in 2016, EQL is a leading innovator and provider of Smart Home Appliance solutions."
    }
 ]
